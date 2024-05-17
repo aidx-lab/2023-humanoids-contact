@@ -7,7 +7,17 @@ title: |-
 
 author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@tum.de'
     
+
+header_pages:
+  - _pages/lab.md
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-redirect-from
+
 exclude: 
-    - .gitignore
-    - Gemfile
-    - README.md
+  - .gitignore
+  - Gemfile
+  - README.md
