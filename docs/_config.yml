@@ -9,6 +9,7 @@ author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@tum.de'
     
 
 header_pages:
+  - _pages/related-work.md
   - _pages/aidx-lab.md
 
 include:

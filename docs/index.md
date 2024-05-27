@@ -3,8 +3,13 @@ layout: page
 title: 
 ---
 
-This site complements the paper [**Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements**](https://ieeexplore.ieee.org/document/10375208) by
-[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the _2023 IEEE-RAS International Conference on Humanoid Robots_ in Austin, USA.
+This site complements the paper 
+[**Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements**](https://ieeexplore.ieee.org/document/10375208) by
+[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), 
+[Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and 
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the 
+_2023 IEEE-RAS International Conference on Humanoid Robots_ in 
+Austin, USA.
 
 
 <p align="center">
@@ -53,4 +58,4 @@ Cite this paper as:
         booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
         year = {2023}}
 
-[arxiv](https://arxiv.org/pdf/2311.03957)
+[arxiv](https://arxiv.org/abs/2311.03957)
